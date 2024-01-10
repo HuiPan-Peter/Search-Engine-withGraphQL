@@ -16,7 +16,7 @@ To see how this search engine works, see the **walk-through demonstration videos
 - [Contribution](#contribution)
 - [Questions](#questions)
 
-
+----
 ## Application Preview
 ![alt text](./assets/Home-Preview.png)
 
