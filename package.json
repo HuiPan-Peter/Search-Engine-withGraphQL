@@ -1,5 +1,5 @@
 {
-  "name": "google-search-engine",
+  "name": "googlebooks-app",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -10,12 +10,9 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "HuiPan",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "concurrently": "^8.2.0"
-  },
-  "dependencies": {
-    "mongodb": "^6.1.0"
   }
 }
