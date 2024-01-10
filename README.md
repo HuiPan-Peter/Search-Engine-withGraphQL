@@ -5,7 +5,7 @@
 ## Description
 
 This Application is a book search and storage site that is built by using the MERN stack. The application was already built but was built using RESTful API. I successfully refactored this application to be a GraphQL API built with Apollo Server.
-
+-
 To see how this search engine works, see the **walk-through demonstration videos** here:[Click!](https://github.com/HuiPan-Peter/Search-Engine-withGraphQL/tree/main/assets)
 
 ## Table of Contents
