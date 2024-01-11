@@ -4,8 +4,8 @@
 
 ## Description
 
-This Application is a book search and storage site that is built by using the MERN stack. The application was already built but was built using RESTful API. I successfully refactored this application to be a GraphQL API built with Apollo Server.
--
+This Application is a book search and storage site that is built by using the MERN stack. The application was already have some given code but was refactored to be a GraphQL API built with Apollo Server.
+
 To see how this search engine works, see the **Live Heroku Deployment** here: [Click!](https://dry-garden-61203-f464af7524b7.herokuapp.com)
 
 ## Table of Contents
@@ -16,7 +16,6 @@ To see how this search engine works, see the **Live Heroku Deployment** here: [C
 - [Contribution](#contribution)
 - [Questions](#questions)
 
-----
 ## Application Preview
 ![alt text](./assets/Home-Preview.png)
 
