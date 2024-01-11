@@ -29,9 +29,9 @@ To see how this search engine works, see the **Live Heroku Deployment** here: [C
 ## Usage
 
 For more information - please visit the walkthrough demo on how the application works.
-[Sreenshots & Video](https://github.com/HuiPan-Peter/Search-Engine-withGraphQL/tree/main/assets)
-[Local Server](https://github.com/HuiPan-Peter/Search-Engine-withGraphQL/blob/main/assets/Walkthrough%20Video_LocalServer.mp4)
-[Heroku Deployment](https://github.com/HuiPan-Peter/Search-Engine-withGraphQL/blob/main/assets/Walkthrough%20Video_HerokuDeployed.mp4)
+- [Sreenshots & Video](https://github.com/HuiPan-Peter/Search-Engine-withGraphQL/tree/main/assets)
+- [Local Server](https://github.com/HuiPan-Peter/Search-Engine-withGraphQL/blob/main/assets/Walkthrough%20Video_LocalServer.mp4)
+- [Heroku Deployment](https://github.com/HuiPan-Peter/Search-Engine-withGraphQL/blob/main/assets/Walkthrough%20Video_HerokuDeployed.mp4)
 
 #### Starting the Server
 
